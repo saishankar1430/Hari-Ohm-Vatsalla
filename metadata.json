@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Kalhyanie Dental Clinic",
+  "description": "Family dental care with a gentle touch. Book an appointment with Dr. Kalhyanie for cleanings, fillings, root canals, braces, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
